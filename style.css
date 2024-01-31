@@ -1,0 +1,51 @@
+.header-page {
+    height:700px;
+    
+    background-color:rgb(136, 0, 255);
+    background-image:url('images/23472442_1737784832922562_4984426495469606554_n.jpg');
+    
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  .container{
+    width:35%;
+    min-width:505px;
+    height:22%;
+    background:rgba(0, 0, 0, .7);
+    margin:auto;
+    padding:15px;
+    
+    border: 4px double silver;
+  }
+  .business-card img{
+    float:left;
+
+  }
+.username, .email, .civ-modul {
+  text-align:center;
+  font-size:22px;
+  line-height: 35px;
+  font-family:'Times New Roman', Times, serif;
+  color:silver;
+}
+.username span{
+  border-bottom: 2px solid red;
+  padding-bottom: 3px;
+}
+.email a{
+  font-size:.9em ;
+  color:silver;
+  
+}
+.civ-modul a{
+  color:red;
+}
+
+  .cv-modul{
+    height:800px;
+    width:400px;
+  }
+  section{
+    margin-top: 200px;
+  }
