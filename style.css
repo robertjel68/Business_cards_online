@@ -8,6 +8,9 @@
     background-position: center;
     background-attachment: fixed;
   }
+  img{
+    width:150px;
+  }
   .container{
     width:35%;
     min-width:505px;
